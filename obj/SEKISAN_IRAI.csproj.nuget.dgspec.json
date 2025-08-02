@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj": {}
+    "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj": {
+    "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+        "projectUniqueName": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
         "projectName": "SEKISAN_IRAI",
-        "projectPath": "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+        "projectPath": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
         "packagesPath": "C:\\Users\\ryuzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\obj\\",
+        "outputPath": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

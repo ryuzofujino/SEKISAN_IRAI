@@ -1,7 +1,80 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Lern_AI\\.git\\SEKISAN_IRAI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\services\\spreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:services\\spreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\data\\requestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:data\\requestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\sekisan_irai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:sekisan_irai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|c:\\work\\lern_ai\\sekisan_irai\\sekisan_irai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFF0E21F-75C8-42A3-AF69-14BFDD0DB5A9}|SEKISAN_IRAI.csproj|solutionrelative:sekisan_irai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +82,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T02:42:47.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SEKISAN_IRAI",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+              "RelativeDocumentMoniker": "SEKISAN_IRAI.csproj",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+              "RelativeToolTip": "SEKISAN_IRAI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T02:35:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Create.cshtml",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Requests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T02:13:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Create.cshtml.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Requests\\Create.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:14:25.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Models\\Request.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Models\\Request.cs",
+              "RelativeToolTip": "Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:11:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestContext.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Data\\RequestContext.cs",
+              "RelativeDocumentMoniker": "Data\\RequestContext.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Data\\RequestContext.cs",
+              "RelativeToolTip": "Data\\RequestContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:10:05.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:21:17.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T02:19:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpreadsheetService.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Services\\SpreadsheetService.cs",
+              "RelativeDocumentMoniker": "Services\\SpreadsheetService.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Services\\SpreadsheetService.cs",
+              "RelativeToolTip": "Services\\SpreadsheetService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:19:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:38:09.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Index.cshtml.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Requests\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:17:22.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Requests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T02:17:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Requests\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:16:16.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Edit.cshtml",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Requests\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T02:16:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Requests\\Delete.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:15:34.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Requests\\Delete.cshtml",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Requests\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Requests\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T02:14:58.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T02:12:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SEKISAN_IRAI",
+              "DocumentMoniker": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+              "RelativeDocumentMoniker": "SEKISAN_IRAI.csproj",
+              "ToolTip": "C:\\Work\\Lern_AI\\SEKISAN_IRAI\\SEKISAN_IRAI.csproj",
+              "RelativeToolTip": "SEKISAN_IRAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T01:47:30.106Z",
+              "EditorCaption": ""
             }
           ]
         }
