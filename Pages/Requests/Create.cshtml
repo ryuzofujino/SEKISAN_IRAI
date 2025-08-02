@@ -8,12 +8,52 @@
 
 <form method="post">
     <div class="form-group">
-        <label asp-for="Request.Title"></label>
-        <input asp-for="Request.Title" class="form-control" />
+        <label asp-for="RequestItem.RequestDate"></label>
+        <input asp-for="RequestItem.RequestDate" class="form-control" />
     </div>
     <div class="form-group">
-        <label asp-for="Request.Status"></label>
-        <input asp-for="Request.Status" class="form-control" />
+        <label asp-for="RequestItem.DesiredEstimateDate"></label>
+        <input asp-for="RequestItem.DesiredEstimateDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.ProjectName"></label>
+        <input asp-for="RequestItem.ProjectName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.ContractType"></label>
+        <input asp-for="RequestItem.ContractType" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.ZacProjectNumber"></label>
+        <input asp-for="RequestItem.ZacProjectNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.SalesPerson"></label>
+        <input asp-for="RequestItem.SalesPerson" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.Estimator"></label>
+        <input asp-for="RequestItem.Estimator" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.Status"></label>
+        <input asp-for="RequestItem.Status" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.EstimateCompletionDate"></label>
+        <input asp-for="RequestItem.EstimateCompletionDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.Remarks"></label>
+        <input asp-for="RequestItem.Remarks" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.DocumentsUrl"></label>
+        <input asp-for="RequestItem.DocumentsUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestItem.Notes"></label>
+        <input asp-for="RequestItem.Notes" class="form-control" />
     </div>
     <button type="submit" class="btn btn-primary">保存</button>
     <a asp-page="Index" class="btn btn-secondary">戻る</a>

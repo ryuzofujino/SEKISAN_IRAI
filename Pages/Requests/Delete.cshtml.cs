@@ -7,38 +7,38 @@ namespace SEKISAN_IRAI.Pages.Requests;
 
 public class DeleteModel : PageModel
 {
-    private readonly RequestContext _context;
+    private readonly EstimateRequestContext _context;
 
-    public DeleteModel(RequestContext context)
+    public DeleteModel(EstimateRequestContext context)
     {
         _context = context;
     }
 
     [BindProperty]
-    public Request Request { get; set; } = new();
+    public EstimateRequest RequestItem { get; set; } = new();
 
     public async Task<IActionResult> OnGetAsync(int? id)
     {
         if (id == null)
             return NotFound();
 
-        var request = await _context.Requests.FindAsync(id);
+        var request = await _context.EstimateRequests.FindAsync(id);
         if (request == null)
             return NotFound();
 
-        Request = request;
+        RequestItem = request;
         return Page();
     }
 
     public async Task<IActionResult> OnPostAsync()
     {
-        if (Request.Id == 0)
+        if (RequestItem.Id == 0)
             return NotFound();
 
-        var request = await _context.Requests.FindAsync(Request.Id);
+        var request = await _context.EstimateRequests.FindAsync(RequestItem.Id);
         if (request != null)
         {
-            _context.Requests.Remove(request);
+            _context.EstimateRequests.Remove(request);
             await _context.SaveChangesAsync();
         }
 

@@ -7,15 +7,15 @@ namespace SEKISAN_IRAI.Pages.Requests;
 
 public class CreateModel : PageModel
 {
-    private readonly RequestContext _context;
+    private readonly EstimateRequestContext _context;
 
-    public CreateModel(RequestContext context)
+    public CreateModel(EstimateRequestContext context)
     {
         _context = context;
     }
 
     [BindProperty]
-    public Request Request { get; set; } = new();
+    public EstimateRequest RequestItem { get; set; } = new();
 
     public void OnGet()
     {
@@ -28,7 +28,7 @@ public class CreateModel : PageModel
             return Page();
         }
 
-        _context.Requests.Add(Request);
+        _context.EstimateRequests.Add(RequestItem);
         await _context.SaveChangesAsync();
         return RedirectToPage("Index");
     }

@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 // PostgreSQL configuration
-builder.Services.AddDbContext<SEKISAN_IRAI.Data.RequestContext>(options =>
+builder.Services.AddDbContext<EstimateRequestContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddTransient<SEKISAN_IRAI.Services.SpreadsheetService>();
 

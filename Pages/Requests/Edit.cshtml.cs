@@ -8,26 +8,26 @@ namespace SEKISAN_IRAI.Pages.Requests;
 
 public class EditModel : PageModel
 {
-    private readonly RequestContext _context;
+    private readonly EstimateRequestContext _context;
 
-    public EditModel(RequestContext context)
+    public EditModel(EstimateRequestContext context)
     {
         _context = context;
     }
 
     [BindProperty]
-    public Request Request { get; set; } = new();
+    public EstimateRequest RequestItem { get; set; } = new();
 
     public async Task<IActionResult> OnGetAsync(int? id)
     {
         if (id == null)
             return NotFound();
 
-        var request = await _context.Requests.FindAsync(id);
+        var request = await _context.EstimateRequests.FindAsync(id);
         if (request == null)
             return NotFound();
 
-        Request = request;
+        RequestItem = request;
         return Page();
     }
 
@@ -36,7 +36,7 @@ public class EditModel : PageModel
         if (!ModelState.IsValid)
             return Page();
 
-        _context.Attach(Request).State = EntityState.Modified;
+        _context.Attach(RequestItem).State = EntityState.Modified;
 
         try
         {
@@ -44,7 +44,7 @@ public class EditModel : PageModel
         }
         catch (DbUpdateConcurrencyException)
         {
-            if (!_context.Requests.Any(e => e.Id == Request.Id))
+            if (!_context.EstimateRequests.Any(e => e.Id == RequestItem.Id))
                 return NotFound();
             else
                 throw;

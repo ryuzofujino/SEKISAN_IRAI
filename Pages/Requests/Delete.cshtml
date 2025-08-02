@@ -8,9 +8,9 @@
 
 <h3>本当に削除しますか？</h3>
 <div>
-    <h4>@Model.Request.Title</h4>
+    <h4>@Model.RequestItem.ProjectName</h4>
     <form method="post">
-        <input type="hidden" asp-for="Request.Id" />
+        <input type="hidden" asp-for="RequestItem.Id" />
         <button type="submit" class="btn btn-danger">削除</button>
         <a asp-page="Index" class="btn btn-secondary">戻る</a>
     </form>

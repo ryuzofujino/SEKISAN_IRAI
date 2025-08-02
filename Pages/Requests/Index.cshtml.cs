@@ -7,18 +7,17 @@ namespace SEKISAN_IRAI.Pages.Requests;
 
 public class IndexModel : PageModel
 {
-    private readonly RequestContext _context;
+    private readonly EstimateRequestContext _context;
 
-    public IndexModel(RequestContext context)
+    public IndexModel(EstimateRequestContext context)
     {
         _context = context;
     }
 
-    public IList<Request> Requests { get; set; } = new List<Request>();
+    public IList<EstimateRequest> Requests { get; set; } = new List<EstimateRequest>();
 
     public async Task OnGetAsync()
     {
-        Requests = await _context.Requests.ToListAsync();
+        Requests = await _context.EstimateRequests.ToListAsync();
     }
 }
-

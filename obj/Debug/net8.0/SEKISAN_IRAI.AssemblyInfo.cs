@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SEKISAN_IRAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fbc60d85827cc2464452b04b0e95044bf429a6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947418bf916e049bb4cac63e18191603ac372bc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SEKISAN_IRAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SEKISAN_IRAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
